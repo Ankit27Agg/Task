@@ -40,7 +40,7 @@ const Card = (props) => {
           </div>
         </div>
         {/* <div className='abc'></div> */}
-        <img src={tick} className='abc'/>
+        <img src={tick} className='abc' alt=''/>
         {/* <img src={tick} /> */}
       </React.Fragment>
     )
