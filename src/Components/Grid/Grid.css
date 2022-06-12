@@ -1,9 +1,9 @@
-.row{
+/* .row{
     width: 90%;
-}
+} */
 #col{
     border: 1px solid black;
-    margin: 5vh 5vw;
+    margin: 5vh 3vw;
     padding: 20px 10px;
 }
 .col button,input{
@@ -17,4 +17,8 @@
 }
 .underline{
     text-decoration: underline;
+}
+.sentence{
+    display: inline-block;
+    vertical-align: middle;
 }
